@@ -1,0 +1,41 @@
+.main{
+    width: 365px;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 80px auto;
+    font-size: 16px;
+    background-color: #333333;
+}
+
+.input{
+    width: 344px;
+    height: 50px;
+    border-radius: 0px;
+    border: 1px solid gray;
+    background-color: grey;
+    color: #d9d9d9;
+    padding: 0 5px 0 5px;
+    margin: 0 0px 10px 2px;
+    font-size: 30px;
+}
+
+.button {
+    margin: 3px;
+    width: 63px;
+    border: 1px solid gray;
+    height: 30px;
+    border-radius: 4px;
+    color: white;
+    background-color: grey;
+    cursor: pointer;
+    outline: none;
+    cursor: pointer;
+  }
+
+  .equal {
+    background-color: green;
+    width: 63px;
+    cursor: pointer;
+   
+  }
+
